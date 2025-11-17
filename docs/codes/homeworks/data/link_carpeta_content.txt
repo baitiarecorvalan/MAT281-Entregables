@@ -1,0 +1,18 @@
+Carpeta con la data de:
+
+
+-districts_info.csv
+-products_info.csv
+-engagement_data
+---1000.csv
+---1039.csv
+---...
+---...
+	....
+
+-test.csv
+-train.csv
+
+
+https://drive.google.com/drive/folders/14jTxqFbfoRA5E0P6CM6DdV_G46q1X4wJ?usp=sharing
+
